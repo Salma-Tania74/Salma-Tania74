@@ -1,16 +1,35 @@
-## Hi there 👋
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Salma-Tania74)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/salma-akter-tania-93351b1a0//)  
 
-<!--
-**Salma-Tania74/Salma-Tania74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I am SALMA AKTER TANIA
+#### Statistician/Research Enthusiast
+![Statistician/Research Enthusiast](https://media.licdn.com/dms/image/v2/D5616AQGfdRtO9kKsSg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1682868273604?e=1749081600&v=beta&t=lktTgoEVdLY5e_9FOgdgG8vpK0kZMnm77O_Yehkym2Y)
 
-Here are some ideas to get you started:
+I'm a Statistician with a strong interest in biostatistics, machine learning, and data analytics. My passion lies in applying statistical methods and computational techniques to solve real-world problems, particularly in public health and epidemiology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Key Areas of Interest:
+
+Biostatistics & Epidemiology
+
+Machine Learning & Predictive Modeling
+
+Health Data Analytics & Disease Prediction
+
+🔹 What I Do:
+
+Conduct data-driven research to uncover insights in healthcare and social sciences
+
+Develop and compare machine learning models for disease prediction
+
+Apply statistical techniques to analyze health disparities and risk factors
+
+Skills: R/Python/SPSS/EViews
+
+- 👯 I’m looking to collaborate on  Public Health/ Biostatistics Research 
+- 📫 How to reach me:  salmaaktertania39@gamil.com 
+- 😄 Pronouns: SHE/HER 
+
+
+
+
+
+
