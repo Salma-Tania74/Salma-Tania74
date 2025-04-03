@@ -1,4 +1,4 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Salma-Tania74)] 
+
 
 ### Hi there 👋, I am SALMA AKTER TANIA
 #### Statistician/Research Enthusiast
