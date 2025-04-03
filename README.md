@@ -26,7 +26,7 @@ Skills: R/Python/SPSS/EViews
 
 - 👯 I’m looking to collaborate on  Public Health/ Biostatistics Research 
 - 📫 How to reach me:  salmaaktertania39@gamil.com 
-- 😄 Pronouns: SHE/HER 
+- 😄 Pronouns: She/Her
 
 
 
