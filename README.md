@@ -1,6 +1,6 @@
 
 
-### Hi there 👋, I am SALMA AKTER TANIA
+###  I am SALMA AKTER TANIA
 #### Statistician/Research Enthusiast
 ![Statistician/Research Enthusiast](https://media.licdn.com/dms/image/v2/D5616AQGfdRtO9kKsSg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1682868273604?e=1749081600&v=beta&t=lktTgoEVdLY5e_9FOgdgG8vpK0kZMnm77O_Yehkym2Y)
 
